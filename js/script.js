@@ -69,7 +69,7 @@
 }
 
 
-
+// the idea is to put function that will count numbers, if the number is correct it will input it in array if not it has to make the square red or something
   onclickFunction =function()
   {
       console.log("lol works")
